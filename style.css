@@ -1,0 +1,18 @@
+img {
+    border-radius: 8px;
+}
+p {
+    color: rgb(95, 199, 112);
+}
+body {
+    background-color: blanchedalmond;
+}
+hr {
+    background-color: white;
+    border-color: lightgreen;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    height: 0px;
+    width: 1000px;
+}
